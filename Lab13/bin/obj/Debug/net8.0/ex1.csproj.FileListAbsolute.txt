@@ -1,0 +1,14 @@
+C:\Users\Vlad\Desktop\lab13-dafny\bin\obj\Debug\net8.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\lab13-dafny\bin\obj\Debug\net8.0\ex1.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\lab13-dafny\bin\obj\Debug\net8.0\ex1.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\lab13-dafny\bin\obj\Debug\net8.0\ex1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\lab13-dafny\bin\obj\Debug\net8.0\ex1.dll
+C:\Users\Vlad\Desktop\lab13-dafny\bin\obj\Debug\net8.0\refint\ex1.dll
+C:\Users\Vlad\Desktop\lab13-dafny\bin\obj\Debug\net8.0\ex1.pdb
+C:\Users\Vlad\Desktop\lab13-dafny\bin\ex1.deps.json
+C:\Users\Vlad\Desktop\lab13-dafny\bin\ex1.dll
+C:\Users\Vlad\Desktop\lab13-dafny\bin\obj\Debug\net8.0\ref\ex1.dll
+C:\Users\Vlad\Desktop\lab13-dafny\bin\ex1.pdb
+C:\Users\Vlad\Desktop\lab13-dafny\bin\ex1.exe
+C:\Users\Vlad\Desktop\lab13-dafny\bin\obj\Debug\net8.0\ex1.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\lab13-dafny\bin\ex1.runtimeconfig.json
